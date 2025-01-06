@@ -1,2 +1,0 @@
-# HACKCEN-WEBSITE
-Hackcen website
